@@ -1,6 +1,6 @@
 ---
 layout: post
-title; "First post for the horti site :)"
+title: "First post for the horti site :)"
 date: 2018-05-01
 ---
 
