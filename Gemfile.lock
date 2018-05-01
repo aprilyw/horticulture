@@ -246,6 +246,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   html-pipeline
+  minima
 
 BUNDLED WITH
    1.16.1
