@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 name: April Wang
 markdown: kramdown
-permalink: pretty
+permalink: /:categories/:title/
