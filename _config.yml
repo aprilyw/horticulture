@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 name: April Wang
 markdown: kramdown
-permalink: /:categories/:title/
+permalink: /horticulture/blog/:year/:month/:day/:title/
