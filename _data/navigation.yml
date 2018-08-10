@@ -3,10 +3,25 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: https://uchihorticulture.com/about/
+    url: http://localhost:4000/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+docs:
+  - title: About us
+    children:
+      - title: "See our Members"
+        url: /docs/_pages/about.md
+  - title: Projects
+    children:
+      - title: "Past"
+        url: /docs/_pages/lorem-ipsum.md
+      - title: "Current"
+        url: /docs/_pages/sample-page.md
+      - title: "Upcoming"
+        url: /docs/_pages/home.md
+  

@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "UChicago Horticultural Society"
 title_separator          : "-"
 #name                     : "Your Name"
-description              : "We are a student run organization at UChicago, devoted to the study and appreciation of plants, open to any and all 'STEM' enthusiasts."
+#description              : "We are a student run organization at UChicago, devoted to the study and appreciation of plants, open to any and all 'STEM' enthusiasts."
 url                      : "https://uchihorticulture.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "aprilyw/horticulture"
@@ -99,7 +99,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : # "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #"I am an amazing person."
   location         : #"Somewhere"
