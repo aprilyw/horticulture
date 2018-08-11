@@ -20,7 +20,7 @@ title_separator          : "-"
 #name                     : "Your Name"
 #description              : "We are a student run organization at UChicago, devoted to the study and appreciation of plants, open to any and all 'STEM' enthusiasts."
 url                      : "https://uchihorticulture.com"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/horticulture"
 repository               : "aprilyw/horticulture"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
