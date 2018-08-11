@@ -14,14 +14,16 @@ main:
 docs:
   - title: About us
     children:
-      - title: "See our Members"
-        url: /docs/_pages/about.md
-  - title: Projects
+      - title: "About"
+        url: /about/
+      - title: "Meet the Board"
+        url: /board/
+  - title: Projects / Events
     children:
       - title: "Past"
-        url: /docs/_pages/lorem-ipsum.md
+        url: /past-proj/
       - title: "Current"
-        url: /docs/_pages/sample-page.md
+        url: /current-proj/
       - title: "Upcoming"
-        url: /docs/_pages/home.md
+        url: /future-proj/
   
