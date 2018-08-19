@@ -242,6 +242,13 @@ compress_html:
     envs: development
 
 
+# Collections
+collections:
+  - my_collection: # output index.html files for each doc in the collection directorh
+      output: true
+      permalink: /:collection/:path/
+
+
 # Defaults
 defaults:
   # _posts
@@ -263,4 +270,10 @@ defaults:
     values:
       layout: single
       author_profie: false
+
+  - scope:
+      path: ""
+      type: my_collection
+    values:
+      layout: page
 
