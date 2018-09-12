@@ -24,4 +24,7 @@ docs:
         url: /current-proj/
       - title: "Upcoming"
         url: /future-proj/
-  
+  - title: Collection
+    children:
+      - title: "test"
+        url: /test/foo-bar

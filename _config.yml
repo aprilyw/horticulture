@@ -244,10 +244,9 @@ compress_html:
 
 # Collections
 collections:
-  - my_collection: # output index.html files for each doc in the collection directorh
-      output: true
-      permalink: /:collection/:path/
-
+  test: # output index.html files for each doc in the collection directorh
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -270,10 +269,13 @@ defaults:
     values:
       layout: single
       author_profie: false
-
+  
+  # test collection
   - scope:
       path: ""
-      type: my_collection
+      type: test
     values:
-      layout: page
+      layout: single
+      author_profile: false
+      share: true
 
