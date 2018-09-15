@@ -247,6 +247,9 @@ collections:
   test: # output index.html files for each doc in the collection directorh
     output: true
     permalink: /:collection/:path/
+  board_members:
+    output: false
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
