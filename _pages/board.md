@@ -11,7 +11,7 @@ sidebar:
   ![bio-pic]({{member.photo}}){:height="400px" width="700px" .align-center}
 
   > {{ member.bio | markdownify }}
-  <h3>{{ member.question }}</h3>
+  <h3> {{ member.question }} </h3>
   > {{ member.answer | markdownify }}
 
 {% endfor %}
