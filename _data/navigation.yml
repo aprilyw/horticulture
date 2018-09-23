@@ -20,8 +20,6 @@ docs:
     children:
       - title: "Past"
         url: /past-proj/
-      - title: "Current"
-        url: /current-proj/
       - title: "Upcoming"
         url: /future-proj/
 
