@@ -2,7 +2,6 @@
 layout: posts
 title: "Pressed Flower Workshop - Collaboration with FOTA"
 date: 2017-05-13
-categories: blog
 photo_link: " https://blueprint.uchicago.edu/organization/horticultural_society/gallery/album/171263 "
 
 ---

@@ -2,7 +2,6 @@
 layout: posts
 title: "Botany Treevia"
 date: 2018-03-06
-categories: blog
 fb_link: " https://www.facebook.com/events/157570491538717/ "
 
 ---

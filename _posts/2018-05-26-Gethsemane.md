@@ -2,7 +2,6 @@
 layout: posts
 title: "Flower Market Trip to Gethsemane Garden Center"
 date: 2018-05-26
-categories: blog
 fb_link: " https://www.facebook.com/events/1725086784224819/ "
 
 ---

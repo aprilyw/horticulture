@@ -2,7 +2,6 @@
 layout: posts
 title: "Campus Tree Identification Tour"
 date: 2018-10-18
-categories: blog
 fb_link: " https://www.facebook.com/events/188973161650094/ "
 
 ---

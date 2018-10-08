@@ -2,7 +2,6 @@
 layout: posts
 title: "Gardening Day at Edible Arts Garden"
 date: 2018-05-28
-categories: blog
 fb_link: " https://www.facebook.com/events/1725913870855068/ "
 
 ---

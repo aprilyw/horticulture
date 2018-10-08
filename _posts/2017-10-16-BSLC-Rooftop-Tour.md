@@ -2,7 +2,6 @@
 layout: posts
 title: "BSLC Rooftop Greenhouse Tour"
 date: 2018-10-16
-categories: blog
 fb_link: " https://www.facebook.com/photo.php?fbid=1953954494864691&set=g.674890499359422&type=1&theater&ifg=1 "
 
 ---

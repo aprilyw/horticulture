@@ -2,7 +2,6 @@
 layout: posts
 title: "Guest Speaker Series: Prof. Eric Larsen"
 date: 2018-04-04
-categories: blog
 fb_link: " https://www.facebook.com/events/344251682752411/ "
 
 ---

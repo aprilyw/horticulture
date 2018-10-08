@@ -6,6 +6,5 @@ sidebar:
 
 ---
 
-The UChicago Horticultural Society (UCHS) is a student-run RSO devoted to the study and appreciation of plants at UChicago. We organize and host a wide range of events-- from horticulture-related lectures and tutorials, to plant sales, to community service projects.
+The UChicago Horticultural Society (UCHS) is a student-run RSO devoted to the study and appreciation of plants at UChicago. We organize and host a wide range of events from horticulture-related lectures and tutorials, to plant sales, to community service projects.
 
-(Follow us on one or more of our social media platforms to stay informed!)

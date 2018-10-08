@@ -2,7 +2,6 @@
 layout: posts
 title: "FOTA Dartsy - Decorating Succulent Pots"
 date: 2018-05-06
-categories: blog
 fb_link: " https://www.facebook.com/events/195813277894899/ "
 
 ---

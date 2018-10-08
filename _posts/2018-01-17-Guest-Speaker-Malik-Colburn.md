@@ -2,7 +2,6 @@
 layout: posts
 title: "Guest Speaker Series: Malik Coburn"
 date: 2018-01-17
-categories: blog
 fb_link: " https://www.facebook.com/events/385748065205139/ "
 
 ---

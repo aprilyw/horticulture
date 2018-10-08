@@ -2,7 +2,6 @@
 layout: posts
 title: "Floral Arrangement Workshop"
 date: 2018-04-19
-categories: blog
 fb_link: " https://www.facebook.com/events/185696652061351/ "
 
 ---

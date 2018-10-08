@@ -2,8 +2,8 @@
 layout: posts
 title: "BSLC Rooftop Greenhouse Tour"
 date: 2016-11-20
-categories: blog
 photo_link: "https://www.facebook.com/photo.php?fbid=1800709730189169&set=g.674890499359422&type=1&theater&ifg=1 "
+tags: [past, fall]
 
 ---
 

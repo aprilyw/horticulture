@@ -2,7 +2,6 @@
 layout: posts
 title: "Tulip Sale"
 date: 2018-02-12
-categories: blog
 fb_link: ""
 
 ---

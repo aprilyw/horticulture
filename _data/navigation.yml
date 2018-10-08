@@ -1,13 +1,11 @@
 # main links
 main:
-  # - title: "About"
-  #   url: http://localhost:4000/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Blog"
+    url: /blog/
 
 docs:
   - title: About us
@@ -21,7 +19,7 @@ docs:
       - title: "Past"
         url: /past-proj/
       - title: "Upcoming"
-        url: /future-proj/
+        url: /projects/
 
 
  # - title: Collection

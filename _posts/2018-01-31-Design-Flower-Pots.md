@@ -2,7 +2,6 @@
 layout: posts
 title: "Design Your Own Flower Pots"
 date: 2018-01-31
-categories: blog
 fb_link: " https://www.facebook.com/events/181985162556792/ "
 
 ---
