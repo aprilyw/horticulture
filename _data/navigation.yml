@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Projects"
-    url: /projects/
+  - title: "Projects & Events"
+    url: /upcoming/
   - title: "Blog"
     url: /blog/
 
@@ -16,10 +16,10 @@ docs:
         url: /board/
   - title: Projects / Events
     children:
-      - title: "Past"
-        url: /past-proj/
+      - title: "All Projects"
+        url: /events/
       - title: "Upcoming"
-        url: /projects/
+        url: /upcoming/
 
 
  # - title: Collection
