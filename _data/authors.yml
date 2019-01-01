@@ -1,0 +1,16 @@
+# /_data/authors.yml
+
+April Wang:
+  name        : "April Wang"
+  bio         : "CS major and plant noob."
+  avatar      : "/assets/images/april.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+    - label: "Github"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"
