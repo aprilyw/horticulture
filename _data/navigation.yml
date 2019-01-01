@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Projects & Events"
-    url: /upcoming/
+    url: /events/
   - title: "Blog"
     url: /blog/
 
