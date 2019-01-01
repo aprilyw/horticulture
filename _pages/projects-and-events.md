@@ -10,8 +10,7 @@ sidebar:
 
 ---
 
-All events. see upcoming events only -here-.
-
+Check out our upcoming events [here]({{ site.baseurl }}{% link _pages/upcoming.md %}).
 <!-- 
 layout: collection
 collection: events
