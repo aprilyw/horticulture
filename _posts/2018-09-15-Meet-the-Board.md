@@ -6,7 +6,5 @@ author: april_wang
 
 ---
 
-I've been working on this website for a while and it supports blog posts! You can attach photos to your posts and create your own author profile.
-
-
+The UChiHorticulture site supports blog posts! You can attach photos to your posts and build your own author profile. Anyone is welcome to write for us concerning anything horticulture-related. If you are interested, feel free to contact April Wang at aprilwang@uchicago.edu for more information.
 
